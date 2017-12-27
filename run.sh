@@ -1,2 +1,2 @@
-gcc BankSimulator.c -lpthread -lrt -o BankSimulator
+./compile.sh
 ./BankSimulator
